@@ -1,0 +1,1 @@
+Kurucu metodlarda private erisim belirteci ile metod olusturabiliriz.Nesne olusturulduktan sonra sınıf degiskenlerindeki degerlere erisilmemesi,degerlerin degiştirilmemesi gerekirse private kullanılabilir.
